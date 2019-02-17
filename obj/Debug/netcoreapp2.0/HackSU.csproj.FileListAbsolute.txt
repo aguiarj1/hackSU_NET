@@ -1,0 +1,11 @@
+C:\Users\jagui\source\repos\HackSU\bin\Debug\netcoreapp2.0\HackSU.deps.json
+C:\Users\jagui\source\repos\HackSU\bin\Debug\netcoreapp2.0\HackSU.runtimeconfig.json
+C:\Users\jagui\source\repos\HackSU\bin\Debug\netcoreapp2.0\HackSU.runtimeconfig.dev.json
+C:\Users\jagui\source\repos\HackSU\bin\Debug\netcoreapp2.0\HackSU.dll
+C:\Users\jagui\source\repos\HackSU\bin\Debug\netcoreapp2.0\HackSU.pdb
+C:\Users\jagui\source\repos\HackSU\obj\Debug\netcoreapp2.0\HackSU.csprojAssemblyReference.cache
+C:\Users\jagui\source\repos\HackSU\obj\Debug\netcoreapp2.0\HackSU.csproj.CoreCompileInputs.cache
+C:\Users\jagui\source\repos\HackSU\obj\Debug\netcoreapp2.0\HackSU.AssemblyInfoInputs.cache
+C:\Users\jagui\source\repos\HackSU\obj\Debug\netcoreapp2.0\HackSU.AssemblyInfo.cs
+C:\Users\jagui\source\repos\HackSU\obj\Debug\netcoreapp2.0\HackSU.dll
+C:\Users\jagui\source\repos\HackSU\obj\Debug\netcoreapp2.0\HackSU.pdb

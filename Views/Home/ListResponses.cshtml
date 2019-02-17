@@ -1,0 +1,27 @@
+﻿@model IEnumerable<HackSU.Models.GuestResponsecs>
+
+@{
+    ViewData["Title"] = "ListResponses";
+}
+
+<h2> Here is a list of students</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>degree</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (HackSU.Models.GuestResponsecs r in Model)
+        {
+            <tr>
+                <td>@r.Name</td>
+                <td>@r.degree</td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+

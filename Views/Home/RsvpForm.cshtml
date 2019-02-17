@@ -1,0 +1,39 @@
+﻿@model HackSU.Models.GuestResponsecs
+
+@{
+    ViewData["Title"] = "RsvpForm";
+}
+<link rel="stylesheet" href="~/css/styles.css" />
+<h2>Home</h2>
+
+<form asp-action="RsvpForm" method="post">
+    <div asp-validation-summary="All"></div>
+    <p>
+        <label asp-for="Name">Your Name:</label>
+        <input asp-for="Name" />
+    </p>
+    <p>
+        <label asp-for="Email">Your email:</label>
+        <input asp-for="Email" />
+    </p>
+    <p>
+        <label>Select Degree</label>
+        <select asp-for="degree">
+            <option value="">Choose an option</option>
+            <option value="MSCS">MSCS</option>
+            <option value="English">English Literature</option>
+        </select>
+    </p>
+
+    <p>
+        <label>Select Route</label>
+        <select asp-for="route">
+            <option value="">Choose an option</option>
+            <option value="specialization">SE Specialization</option>
+            <option value="research">Research</option>
+            <option value="seminar">seminar</option>
+        </select>
+    </p>
+    <button type="submit">Submit RSVP</button>
+</form>
+
